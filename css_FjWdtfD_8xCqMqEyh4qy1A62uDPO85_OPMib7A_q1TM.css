@@ -89,7 +89,6 @@ pre .preprocessor, pre .preprocessor .keyword, pre .shebang, pre .symbol, pre .s
 .search-form .form-submit:hover { background-color: rgb(0, 103, 131); }
 html { box-sizing: border-box; }
 *, *::before, *::after { box-sizing: inherit; }
-body { padding-top: 48px; }
 .container { max-width: 1360px; padding: 0px 10px; margin-left: auto; margin-right: auto; position: relative; }
 #branding .container { padding-left: 0px; padding-right: 0px; margin-bottom: 20px; border-bottom: 3px solid rgb(0, 163, 207); max-width: 1340px; }
 .col-extra, .col-main { position: relative; float: left; }
