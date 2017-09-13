@@ -121,8 +121,8 @@
       <file leaf-file-name="css_FjWdtfD_8xCqMqEyh4qy1A62uDPO85_OPMib7A_q1TM.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_FjWdtfD_8xCqMqEyh4qy1A62uDPO85_OPMib7A_q1TM.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="100" column="25" lean-forward="false" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="25" />
+            <state relative-caret-position="44">
+              <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,9 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>特殊情况</find>
-      <find>.</find>
-      <find>.main</find>
       <find>.main-r</find>
       <find>.main-</find>
       <find>.main-w</find>
@@ -145,7 +142,31 @@
       <find>da</find>
       <find>da'mo</find>
       <find>大漠</find>
+      <find>.no</find>
+      <find>.node-had</find>
+      <find>.node-he</find>
+      <find>r</find>
+      <find>rb</find>
+      <find>rbg</find>
+      <find>rbg(</find>
+      <find>rbg()</find>
+      <find>rbg(2)</find>
+      <find>rbg(20)</find>
+      <find>rbg(204)</find>
+      <find>rbg(204</find>
+      <find>.</find>
+      <find>.nod</find>
+      <find>.node-ha</find>
+      <find>.node-h</find>
+      <find>.node-hea</find>
+      <find>.node-head</find>
+      <find>.node-header</find>
+      <find>rgb(204, 204, 204)</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>rgb(90, 90, 90)</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>C:\Users\jsh\AppData\Roaming\Mozilla\Firefox\Profiles\bti9ez7g.default\ScrapBook\data\20170913143635</dir>
     </dirStrings>
@@ -153,8 +174,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css_FjWdtfD_8xCqMqEyh4qy1A62uDPO85_OPMib7A_q1TM.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css_FjWdtfD_8xCqMqEyh4qy1A62uDPO85_OPMib7A_q1TM.css" />
       </list>
     </option>
   </component>
@@ -292,15 +313,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505285226342</updated>
-      <workItem from="1505285227742" duration="1052000" />
+      <workItem from="1505285227742" duration="1977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1052000" />
+    <option name="totallyTimeSpent" value="1977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122114666" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -309,7 +331,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -333,8 +355,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css_FjWdtfD_8xCqMqEyh4qy1A62uDPO85_OPMib7A_q1TM.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="100" column="25" lean-forward="false" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="25" />
+        <state relative-caret-position="44">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
           <folding />
         </state>
       </provider>
